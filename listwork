@@ -1,0 +1,15 @@
+<!--All the Best -->
+<html pooja>
+<head2>
+    <title>School Management Home</title>
+    <script type="text/javascript" src="js/common.js"></srript>
+    <link rel = "stylesheet" type = "text/css" href="css/styles.css" />
+</head>
+<body>
+    <h1>
+       School Management Dashboard
+    </h1>
+    <p>Welcome to School Management Website</p>
+    Last name: <input type = "text" name = "last_name" />
+</body>
+</html>
