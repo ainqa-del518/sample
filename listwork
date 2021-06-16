@@ -10,6 +10,6 @@
        School Management Dashboard
     </h1>
     <p>Welcome to School Management Website</p>
-    <input type="button" value="Create New School" onclick="createNewSchool();" />
+    Last name: <input type = "text" name = "last_name" />
 </body>
 </html>
